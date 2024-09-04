@@ -1,0 +1,6 @@
+
+Query: Tell me about Fyodor Dostoevsky.
+Response: Fyodor Dostoevsky was a Russian novelist known for his works like "Crime and Punishment"...
+
+Query: What is natural language processing?
+Response: Natural Language Processing (NLP) is a field of AI focused on the interaction between computers and humans...

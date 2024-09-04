@@ -1,0 +1,6 @@
+
+transformers==4.12.5
+sentence-transformers==2.2.0
+faiss-cpu==1.7.1
+torch==1.10.0
+datasets==1.15.0
